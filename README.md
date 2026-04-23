@@ -11,6 +11,7 @@ Objectives
 - Provide actionable recommendations to improve business performance
 
 Dataset Description
+
 The dataset contains transaction-level records with the following fields:
 Transaction ID, Transaction Date, Transaction Time, Transaction Quantity, Store ID, Store Location, Product ID, Unit Price, Product Category, Product Type, Product Details
 
