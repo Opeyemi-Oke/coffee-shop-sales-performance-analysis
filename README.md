@@ -46,7 +46,7 @@ Key Insights
 - Store location impacts performance
 
 Dashboard Preview
-![Dashboard](images:dashboard.png)
+![Dashboard](coffee_dashboard.png)
 
 Recommendations
 - Increase staff during busy period, like days like Thurday, Friday and Monday by preparing high demand products in advance
