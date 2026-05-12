@@ -68,3 +68,12 @@ How to Use
 - Use filters to explore different segments
 - Review KPI's and charts for insights
 
+  
+Author Opeyemi
+
+LinkedIn: https://linkedin.com/in/okeopeyemioluwafemi
+GitHub: https://github.com/Opeyemi-Oke
+  
+
+  
+
